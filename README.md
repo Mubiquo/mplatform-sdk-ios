@@ -1,2 +1,2 @@
-# mplatform-sdk-ios
-MPlatform iOS SDK
+# MPlatform SDK for iOS
+Add the SDK to your project with CocoaPods
